@@ -8,7 +8,7 @@ body {
 
 #container {
 	width: 1280px;
-	height: auto;
+	height: 900px;
 	margin-left: auto;
 	margin-right: auto;
 	background-color: #750000;
@@ -16,7 +16,7 @@ body {
 
 #sidebar {
 	width: 300px;
-	height: auto;
+	height: 900px;
 	background-color: #9B0060;
 	float: left;
 }
