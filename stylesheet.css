@@ -1,3 +1,29 @@
 @charset "utf-8";
 /* CSS Document */
 
+body {
+	margin: 0px;
+	background-color: #00AFF8;
+}
+
+#container {
+	width: 1280px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #750000;
+}
+
+#sidebar {
+	width: 300px;
+	height: auto;
+	background-color: #9B0060;
+	float: left;
+}
+
+#lgn {
+	width: 300px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+}
