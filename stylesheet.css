@@ -42,6 +42,13 @@ body {
 	margin-top: 20px;
 }
 
+.trp {
+	width: 720px;
+	height: 405px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 .butt {
     margin-top: 35px;
 }
